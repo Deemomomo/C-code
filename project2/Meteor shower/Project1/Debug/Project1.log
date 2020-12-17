@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\C code\project2\Meteor shower\Project1\源.cpp(82,7): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\C code\project2\Meteor shower\Project1\源.cpp(83,8): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
